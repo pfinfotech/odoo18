@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Odoo 18 Installation Script Summary</title>
+    Odoo 18 Installation Script Summary
 </head>
 <body>
     Odoo 18 Installation Script Summary
